@@ -1,7 +1,4 @@
-drupal-favs
-===========
-
-Drupal Module Favorites
+# Drupal Module Favorites
 
 SITEBUILDING  
 http://drupal.org/project/disable_breadcrumbs  
