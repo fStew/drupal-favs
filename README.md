@@ -19,9 +19,9 @@ VIEWS & ADDONS
 http://drupal.org/project/views  
 http://drupal.org/project/better_exposed_filters  
 http://drupal.org/project/views_dependent_filters  
-* http://www.lullabot.com/articles/module-monday-views-dependent-filters  
+&nbsp;&nbsp;&nbsp;http://www.lullabot.com/articles/module-monday-views-dependent-filters  
 http://drupal.org/project/field_collection_views  
-* http://codekarate.com/daily-dose-of-drupal/drupal-7-field-collection-views-module  
+&nbsp;&nbsp;&nbsp;http://codekarate.com/daily-dose-of-drupal/drupal-7-field-collection-views-module  
 http://drupal.org/project/datatables >> jQuery data tables integration  
 http://drupal.org/project/views_data_export >> CSV etc  
 http://drupal.org/project/views_slideshow  
@@ -50,7 +50,7 @@ http://drupal.org/project/video_embed_field
 
 THEME
 http://drupal.org/project/bootstrap  
-	http://drupal.org/node/1976938 docs  
+&nbsp;&nbsp;&nbsp;http://drupal.org/node/1976938 docs  
 http://drupal.org/project/omega  
 http://drupal.org/project/omega_tools << install then use this to create sub-theme  
 http://drupal.org/project/context  
@@ -75,7 +75,7 @@ http://drupal.org/project/google_analytics
 
 SLIDESHOWS etc  
 http://drupal.org/project/flexslider  
-	http://www.woothemes.com/flexslider  
+&nbsp;&nbsp;&nbsp;http://www.woothemes.com/flexslider  
 http://drupal.org/project/jcarousel  
 http://drupal.org/project/fontyourface  
 
@@ -85,8 +85,8 @@ http://drupal.org/project/menu_block
 
 UI
 http://drupal.org/project/ckeditor  
-	http://ckeditor.com/  
-	http://cksource.com/ckfinder  
+&nbsp;&nbsp;&nbsp;http://ckeditor.com/  
+&nbsp;&nbsp;&nbsp;http://cksource.com/ckfinder  
 http://drupal.org/project/draggableviews  
 https://drupal.org/project/fontello  
 
