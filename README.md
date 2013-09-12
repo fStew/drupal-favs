@@ -3,10 +3,10 @@ drupal-favs
 
 Drupal Module Favorites
 
-SITEBUILDING
-http://drupal.org/project/disable_breadcrumbs
-http://drupal.org/project/custom_search
-http://drupal.org/project/popup
+SITEBUILDING  
+http://drupal.org/project/disable_breadcrumbs  
+http://drupal.org/project/custom_search  
+http://drupal.org/project/popup  
 
 
 ADMINISTRATION
