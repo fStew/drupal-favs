@@ -4,12 +4,10 @@ SITEBUILDING
 http://drupal.org/project/disable_breadcrumbs  
 http://drupal.org/project/custom_search  
 http://drupal.org/project/popup  
-- - -
 
 ADMINISTRATION  
 http://drupal.org/project/module_filter  
 http://drupal.org/project/addanother  
-
 
 FUNCTIONS & APIs  
 http://drupal.org/project/ctools  
@@ -17,14 +15,13 @@ http://drupal.org/project/libraries
 http://drupal.org/project/token  
 http://drupal.org/project/jquery_update  
 
-
 VIEWS & ADDONS  
 http://drupal.org/project/views  
 http://drupal.org/project/better_exposed_filters  
 http://drupal.org/project/views_dependent_filters  
-	http://www.lullabot.com/articles/module-monday-views-dependent-filters  
+* http://www.lullabot.com/articles/module-monday-views-dependent-filters  
 http://drupal.org/project/field_collection_views  
-	http://codekarate.com/daily-dose-of-drupal/drupal-7-field-collection-views-module  
+* http://codekarate.com/daily-dose-of-drupal/drupal-7-field-collection-views-module  
 http://drupal.org/project/datatables >> jQuery data tables integration  
 http://drupal.org/project/views_data_export >> CSV etc  
 http://drupal.org/project/views_slideshow  
