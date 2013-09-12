@@ -36,7 +36,7 @@ http://drupal.org/project/views_ui_basic
 http://drupal.org/project/draggableviews  
 
 
-FIELDS
+FIELDS  
 http://drupal.org/project/date  
 http://drupal.org/project/phone  
 http://drupal.org/project/email  
